@@ -2,7 +2,7 @@
 
 #created on 8/28/2018
 
-# author: Benjamin Tayo
+#author: Benjamin Tayo
 
 library(tidyverse)
 library(scales)
