@@ -1,3 +1,9 @@
+#This code generates a barplot using R for 2016 GDP for selected countries.
+
+#created on 8/28/2018
+
+# author: Benjamin Tayo
+
 library(tidyverse)
 library(scales)
 data<-read.csv("gdp.csv")
